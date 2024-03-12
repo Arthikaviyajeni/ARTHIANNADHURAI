@@ -1,0 +1,27 @@
+
+
+
+
+
+.body{
+    background-color: black;
+    
+}
+#navbar {
+    text-decoration: none;
+   margin-left: 100px;
+   
+}
+p{
+    color: red;
+}
+h1{
+    color: white;
+}
+h4{
+    color: beige;
+    list-style-type: unstyle;
+}
+p1{
+    color: blanchedalmond;
+}
